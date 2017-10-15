@@ -1,0 +1,6 @@
+the format of Car: id ownerName totalRentalDays rentalCostPerDay passengersNumber
+1 smith 3 10 5
+1 john 20 8 4
+the format of truck: id ownerName totalRentalDays rentalCostPerDay cargoWeight
+2 jom 5 20 55
+2 nana 10 10 60
