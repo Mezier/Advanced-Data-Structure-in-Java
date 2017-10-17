@@ -26,6 +26,10 @@ public class ATM {
   public static final int PIN=2;
   public static final int ACCOUNT=3;
   public static final int TRANSACT=4;
+  /*1. START: Enter customer ID
+  2. PIN: Enter PIN
+  3. ACCOUNT: Select account
+  4. TRANSACT: Select transaction*/
   private int state;
   private int customerID;
   private Customer cus;
