@@ -7,7 +7,7 @@ public class Fibonacci {
 	  
   }
   public static void main(String[] args) {
-	int n=8;
+	int n=6;
 	for(int i=1;i<n;i++){
 		int f=fib(i);
 		System.out.println("fib("+i+")"+":"+f);
