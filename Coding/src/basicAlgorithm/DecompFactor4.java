@@ -16,6 +16,6 @@ public class DecompFactor4 {
 	  return s.toString();
   }
   public static void main(String[] args) {
-	System.out.println(decomp(90));
+	System.out.println(decomp(8));
 }
 }
