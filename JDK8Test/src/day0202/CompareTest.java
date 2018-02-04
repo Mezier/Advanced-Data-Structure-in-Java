@@ -5,9 +5,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-interface Con<A,T>{
-	void convert(A from);
-}
+
 public class CompareTest {
 	public static <T> void main(String[] args) {
 		List<String> names = Arrays.asList("peter", "anna", "bob");
