@@ -1,0 +1,28 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.entity.PropertyTestBean",
+      "name": "com",
+      "type": "com.entity.PropertyTestBean"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.entity.PropertyTestBean",
+      "name": "com.age",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.entity.PropertyTestBean",
+      "defaultValue": 0,
+      "name": "com.id",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.entity.PropertyTestBean",
+      "name": "com.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
