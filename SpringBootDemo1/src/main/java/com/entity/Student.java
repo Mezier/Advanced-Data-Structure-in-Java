@@ -8,7 +8,7 @@ public class Student {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
-    private String stuName;
+    private String stuname;
     private int age;
 
     public int getId() {
@@ -19,12 +19,12 @@ public class Student {
         this.id = id;
     }
 
-    public String getStuName() {
-        return stuName;
+    public String getStuname() {
+        return stuname;
     }
 
-    public void setStuName(String stuName) {
-        this.stuName = stuName;
+    public void setStuname(String stuname) {
+        this.stuname = stuname;
     }
 
     public int getAge() {
@@ -40,7 +40,7 @@ public class Student {
     public String toString() {
         return "Student{" +
                 "id=" + id +
-                ", stuName='" + stuName + '\'' +
+                ", stuName='" + stuname + '\'' +
                 ", age=" + age +
                 '}';
     }

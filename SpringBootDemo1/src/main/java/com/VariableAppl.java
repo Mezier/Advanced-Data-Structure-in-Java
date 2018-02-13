@@ -1,4 +1,4 @@
-package com.application;
+package com;
 
 import com.entity.VariableBean;
 import org.springframework.boot.SpringApplication;

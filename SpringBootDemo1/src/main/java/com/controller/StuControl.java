@@ -15,6 +15,7 @@ public class StuControl {
     private StudentServ stuSer;
 
     @RequestMapping(value = "/index")
+
     public String index(){
         return "stu/index";
     }
@@ -23,7 +24,7 @@ public class StuControl {
     public String show(@RequestParam(value = "id") int id){
         Student stu=stuSer.findStuById(id);
         if(stu!=null){
-            return stu.getId()+"/"+stu.getStuName()+"/"+stu.getAge();
+            return stu.getId()+"/"+stu.getStuname()+"/"+stu.getAge();
         }else{
             return null;
         }
