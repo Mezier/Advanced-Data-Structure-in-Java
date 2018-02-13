@@ -14,15 +14,16 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class StudentController {
     @Autowired
     private StudentService ss;
-    private PropertyTestBean pb;
+//    @Autowired
+//    private PropertyTestBean pb;
     @RequestMapping(value="/index")
     public String index(){
         return "stu/index";
     }
     @RequestMapping(value="/vv")
     @ResponseBody
-    public String vv(){
-        return "Hello" + pb.getAge();
+    public String vvinfo(){
+        return "Hello" ;
     }
     @RequestMapping(value = "/show")
     @ResponseBody
