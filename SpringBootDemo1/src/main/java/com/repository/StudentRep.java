@@ -11,6 +11,6 @@ import java.util.List;
 // dao
 @Repository
 public interface StudentRep extends JpaRepository<Student,Integer>{
-    @Query("select s from student s where s.id=id")
+    @Query("select s from Student s where s.id= :id")
     Student findById(@Param("id") int id);
 }
