@@ -1,0 +1,20 @@
+{
+  "groups": [{
+    "name": "com",
+    "type": "com.entity.VariableBean",
+    "sourceType": "com.entity.VariableBean"
+  }],
+  "properties": [
+    {
+      "name": "com.x",
+      "type": "java.lang.String",
+      "sourceType": "com.entity.VariableBean"
+    },
+    {
+      "name": "com.y",
+      "type": "java.lang.String",
+      "sourceType": "com.entity.VariableBean"
+    }
+  ],
+  "hints": []
+}
