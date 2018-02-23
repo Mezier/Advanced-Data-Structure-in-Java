@@ -12,22 +12,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="PlusOne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test0220/PlusOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="47" column="49" lean-forward="true" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RotateArrayImg.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test0220/RotateArrayImg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
+            <state relative-caret-position="483">
               <caret line="22" column="44" lean-forward="false" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -40,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/src/stringTest/ReverseString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="8" column="30" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="8" selection-end-column="30" />
+              <caret line="8" column="30" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="8" selection-end-column="30" />
               <folding>
                 <element signature="e#309#310#0" expanded="true" />
                 <element signature="e#357#358#0" expanded="true" />
@@ -52,8 +40,8 @@
       <file leaf-file-name="ReverseInt.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/stringTest/ReverseInt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="22" column="17" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="506">
+              <caret line="22" column="17" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="22" selection-end-column="17" />
               <folding>
                 <element signature="e#534#535#0" expanded="true" />
                 <element signature="e#583#584#0" expanded="true" />
@@ -65,7 +53,7 @@
       <file leaf-file-name="firstUniChar.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/stringTest/firstUniChar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
+            <state relative-caret-position="644">
               <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
               <folding />
             </state>
@@ -75,7 +63,7 @@
       <file leaf-file-name="IsAnagram.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/stringTest/IsAnagram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
+            <state relative-caret-position="506">
               <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -86,10 +74,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Palindrome.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Palindrome.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/stringTest/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
+            <state relative-caret-position="127">
               <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="47" />
               <folding>
                 <element signature="e#806#807#0" expanded="true" />
@@ -99,13 +87,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RotateArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test0220/RotateArray.java">
+      <file leaf-file-name="Myatoi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/stringTest/Myatoi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="805">
-              <caret line="36" column="15" lean-forward="false" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+            <state relative-caret-position="-115">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1082#1083#0" expanded="true" />
+                <element signature="e#1137#1138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetStr.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/stringTest/GetStr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#718#719#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountSay.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/stringTest/CountSay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="35" column="28" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="35" selection-end-column="28" />
+              <folding>
+                <element signature="e#942#943#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestPrefix.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/stringTest/LongestPrefix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="39" />
+              <folding>
+                <element signature="e#972#973#0" expanded="true" />
+                <element signature="e#1042#1043#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -116,6 +144,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -145,6 +174,11 @@
         <option value="$PROJECT_DIR$/src/stringTest/firstUniChar.java" />
         <option value="$PROJECT_DIR$/src/stringTest/IsAnagram.java" />
         <option value="$PROJECT_DIR$/src/stringTest/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/stringTest/Myatoi.java" />
+        <option value="$PROJECT_DIR$/src/stringTest/GetStr.kt" />
+        <option value="$PROJECT_DIR$/src/stringTest/GetStr.java" />
+        <option value="$PROJECT_DIR$/src/stringTest/CountSay.java" />
+        <option value="$PROJECT_DIR$/src/stringTest/LongestPrefix.java" />
       </list>
     </option>
   </component>
@@ -154,9 +188,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="601" />
-    <option name="y" value="128" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="261" />
+    <option name="y" value="47" />
     <option name="width" value="1283" />
     <option name="height" value="981" />
   </component>
@@ -176,8 +210,9 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,7 +235,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,9 +244,10 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/stringTest/GetStr.kt" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="SearchEverywhereHistoryKey" value="{&#9;null&#9;null" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/stringTest/GetStr.kt" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -226,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Palindrome">
+  <component name="RunManager" selected="Application.LongestPrefix">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -234,14 +269,71 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="IsAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CountSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="stringTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="stringTest.IsAnagram" />
+      <option name="MAIN_CLASS_NAME" value="stringTest.CountSay" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Coding" />
+      <envs />
+    </configuration>
+    <configuration name="GetStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="stringTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="stringTest.GetStr" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Coding" />
+      <envs />
+    </configuration>
+    <configuration name="LongestPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="stringTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="stringTest.LongestPrefix" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Coding" />
+      <envs />
+    </configuration>
+    <configuration name="Myatoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="stringTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="stringTest.Myatoi" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -272,44 +364,6 @@
       <module name="Coding" />
       <envs />
     </configuration>
-    <configuration name="ReverseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="stringTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="stringTest.ReverseInt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Coding" />
-      <envs />
-    </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="stringTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="stringTest.ReverseString" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Coding" />
-      <envs />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -322,25 +376,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
-      <envs />
-    </configuration>
-    <configuration name="firstUniChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="stringTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="stringTest.firstUniChar" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Coding" />
       <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -404,19 +439,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ReverseString" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ReverseInt" />
-      <item index="2" class="java.lang.String" itemvalue="Application.firstUniChar" />
-      <item index="3" class="java.lang.String" itemvalue="Application.IsAnagram" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Palindrome" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Palindrome" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Myatoi" />
+      <item index="2" class="java.lang.String" itemvalue="Application.GetStr" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CountSay" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LongestPrefix" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Palindrome" />
-        <item index="1" class="java.lang.String" itemvalue="Application.IsAnagram" />
-        <item index="2" class="java.lang.String" itemvalue="Application.firstUniChar" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ReverseInt" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ReverseString" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LongestPrefix" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CountSay" />
+        <item index="2" class="java.lang.String" itemvalue="Application.GetStr" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Myatoi" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -439,36 +474,38 @@
       <workItem from="1519252796369" duration="2758000" />
       <workItem from="1519292134291" duration="3105000" />
       <workItem from="1519309423278" duration="15795000" />
+      <workItem from="1519404756152" duration="9667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45438000" />
+    <option name="totallyTimeSpent" value="55105000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="601" y="128" width="1283" height="981" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35211268" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3514151" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30985916" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28537735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29776675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19742489" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976415" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -485,17 +522,90 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test0220/PlusOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1035">
+          <caret line="47" column="49" lean-forward="false" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test0220/RotateArrayImg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="44" lean-forward="false" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stringTest/ReverseInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stringTest/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stringTest/firstUniChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stringTest/IsAnagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test0220/RotateArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="36" column="15" lean-forward="false" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stringTest/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="47" />
+          <folding>
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#873#874#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -505,7 +615,17 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test0220/PlusOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -535,7 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -544,7 +663,7 @@
         <state relative-caret-position="782">
           <caret line="36" column="15" lean-forward="false" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -553,10 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="29" selection-end-column="17" />
-          <folding>
-            <element signature="e#943#944#0" expanded="false" />
-            <element signature="e#1010#1011#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -613,10 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
           <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="29" selection-end-column="17" />
-          <folding>
-            <element signature="e#943#944#0" expanded="false" />
-            <element signature="e#1010#1011#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -624,7 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -651,10 +761,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test0220/PlusOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="47" column="49" lean-forward="true" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
+        <state relative-caret-position="1035">
+          <caret line="47" column="49" lean-forward="false" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -677,25 +787,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test0220/RotateArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
+        <state relative-caret-position="782">
           <caret line="36" column="15" lean-forward="false" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stringtest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stringtest.java" />
     <entry file="file://$PROJECT_DIR$/src/test0220/RotateArrayImg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
+        <state relative-caret-position="483">
           <caret line="22" column="44" lean-forward="false" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -706,7 +809,7 @@
     <entry file="file://$PROJECT_DIR$/src/stringTest/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="8" selection-end-column="30" />
+          <caret line="8" column="30" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="8" selection-end-column="30" />
           <folding>
             <element signature="e#309#310#0" expanded="true" />
             <element signature="e#357#358#0" expanded="true" />
@@ -716,8 +819,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/stringTest/ReverseInt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="506">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="22" selection-end-column="17" />
           <folding>
             <element signature="e#534#535#0" expanded="true" />
             <element signature="e#583#584#0" expanded="true" />
@@ -727,7 +830,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/stringTest/IsAnagram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
+        <state relative-caret-position="506">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -739,7 +842,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/stringTest/firstUniChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
+        <state relative-caret-position="644">
           <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
           <folding />
         </state>
@@ -747,11 +850,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/stringTest/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
+        <state relative-caret-position="127">
           <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="47" />
           <folding>
             <element signature="e#806#807#0" expanded="true" />
             <element signature="e#873#874#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stringTest/Myatoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#1082#1083#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stringTest/GetStr.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stringTest/GetStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stringTest/CountSay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="35" column="28" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="35" selection-end-column="28" />
+          <folding>
+            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stringTest/LongestPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <element signature="e#972#973#0" expanded="true" />
+            <element signature="e#1042#1043#0" expanded="true" />
           </folding>
         </state>
       </provider>
