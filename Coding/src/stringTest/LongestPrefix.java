@@ -32,7 +32,7 @@ public class LongestPrefix {
         return s;
     }
     public static void main(String[] args) {
-        System.out.println(method1(new String[]{"c","abcyu"}));
+        System.out.println(method1(new String[]{"abc","abcyu"}));
     }
 
 }
