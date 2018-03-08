@@ -13,5 +13,7 @@ test2 t=new test2();
             t.sum();
         }
         System.out.println(a);
+        System.out.println((int)'A');
     }
+
 }
