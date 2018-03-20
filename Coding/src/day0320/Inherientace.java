@@ -55,3 +55,7 @@ class RoundGlyph extends Glyph {
         System.out.println("RoundGlyph.draw(), radius = " + radius);
     }
 }
+interface vv{
+     void f();
+     int a=1;
+}
