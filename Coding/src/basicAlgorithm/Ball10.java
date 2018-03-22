@@ -20,7 +20,7 @@ height=height/2;
 		return height;
 	}
 	public static void main(String[] args) {
-		System.out.println(distance(1));
+		System.out.println(distance(5));
 		System.out.println(high(10));
 		//distance(100,10);
 	}

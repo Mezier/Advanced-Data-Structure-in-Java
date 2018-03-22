@@ -2,13 +2,13 @@ package basicAlgorithm;
 
 public class Permutation11 {
     private static int Per(int... n){
-    	int count=0;  //±£´æÊý×Ö¸öÊý 
+    	int count=0;  //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½ï¿½ 
     	if(n.length<3){
     		count =0;
     	}else{
-    	int i=0;  //±£´æ°ÙÎ»ÉÏµÄÊý
-    	int j=0;  //±£´æÊ®Î»ÉÏµÄÊý
-    	int k=0;  //±£´æ¸÷Î»ÉÏµÄÊý
+    	int i=0;  //ï¿½ï¿½ï¿½ï¿½ï¿½Î»ï¿½Ïµï¿½ï¿½ï¿½
+    	int j=0;  //ï¿½ï¿½ï¿½ï¿½Ê®Î»ï¿½Ïµï¿½ï¿½ï¿½
+    	int k=0;  //ï¿½ï¿½ï¿½ï¿½ï¿½Î»ï¿½Ïµï¿½ï¿½ï¿½
     	
     	for(i=1;i<=n.length ;i++){
     	   for(j=1;j<=n.length ;j++){

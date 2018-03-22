@@ -11,7 +11,7 @@ public class Test {
             System.out.print(word);
         }*/
         // file=new File("F:\\courses\\COMP47470 Big Data Programming\\proj1\\pg1112.txt");
-        String s="*Project}{ Gutenberg is proud to cooperate with The World Library*\n" +
+        String s = "*Project}{ Gutenberg is proud to cooperate with The World Library*\n" +
                 "in the} presentation of The Complete Works of William Shakespeare\n" +
                 "for your reading for education and entertainment.  HOWEVER, THIS\n" +
                 "IS NEITHER SHAREWARE NOR PUBLIC DOMAIN. . .AND UNDER THE LIBRARY\n" +
@@ -28,8 +28,8 @@ public class Test {
                 "\n" +
                 "Information on contacting Project Gutenberg to get Etexts, and\n" +
                 "further information is included below.  We need your donations.";
-        StringTokenizer itr=new StringTokenizer(s," the ");
-        while (itr.hasMoreTokens()){
+        StringTokenizer itr = new StringTokenizer(s, " the ");
+        while (itr.hasMoreTokens()) {
             System.out.println(itr.nextToken());
         }
     }

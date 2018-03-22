@@ -43,7 +43,7 @@ public class PrimeNum2 {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("The number of Prime is :" + getPrime(300, 200));
+		System.out.println("The number of Prime is :" + getPrime(100, 200));
 
 	}
 }
