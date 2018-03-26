@@ -21,7 +21,7 @@ class Tst extends ConTest{
         } catch (CloneNotSupportedException e) {
             e.printStackTrace();
         }
- 
+
         return t;
     }
 }
