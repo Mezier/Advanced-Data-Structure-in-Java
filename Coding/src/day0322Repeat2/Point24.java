@@ -91,7 +91,7 @@ public class Point24 {
                 recursion(dd, ss);
                 if(res!=null){
                     return;
-                }  
+                }
 
                 dd.remove(dd.size()-1);
                 ss.remove(ss.size()-1);
