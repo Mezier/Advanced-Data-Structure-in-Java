@@ -13,44 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Question48.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day0322Repeat2/Question48.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question49.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day0322Repeat2/Question49.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question50.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day0322Repeat2/Question50.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="45" column="42" lean-forward="false" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#587#588#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/basicAlgorithm/Test.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CopyFile.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CopyFile.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day0330/CopyFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="36" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="322">
+              <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="46" />
               <folding>
                 <element signature="e#423#424#0" expanded="true" />
                 <element signature="e#497#498#0" expanded="true" />
@@ -122,12 +84,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileWriter50.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/basicAlgorithm/FileWriter50.java">
+      <file leaf-file-name="IOFIle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day0330/IOFIle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+            <state relative-caret-position="46">
+              <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordCount.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day0330/WordCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#182#201#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Recursion1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day0330/Recursion1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Recursion2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day0330/Recursion2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+              <folding>
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,10 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test0220/Test.java" />
-        <option value="$PROJECT_DIR$/src/day0322Repeat2/Rabbit1.java" />
-        <option value="$PROJECT_DIR$/src/day0322Repeat2/Question2.java" />
-        <option value="$PROJECT_DIR$/src/basicAlgorithm/PrimeNum2.java" />
         <option value="$PROJECT_DIR$/src/day0322Repeat2/Question4.java" />
         <option value="$PROJECT_DIR$/src/day0322Repeat2/Question3.java" />
         <option value="$PROJECT_DIR$/src/day0322Repeat2/Question6.java" />
@@ -207,6 +206,10 @@
         <option value="$PROJECT_DIR$/src/day0330/FourThread.java" />
         <option value="$PROJECT_DIR$/src/day0330/IOTest.java" />
         <option value="$PROJECT_DIR$/src/day0330/CopyFile.java" />
+        <option value="$PROJECT_DIR$/src/day0330/IOFIle.java" />
+        <option value="$PROJECT_DIR$/src/day0330/WordCount.java" />
+        <option value="$PROJECT_DIR$/src/day0330/Recursion1.java" />
+        <option value="$PROJECT_DIR$/src/day0330/Recursion2.java" />
       </list>
     </option>
   </component>
@@ -302,7 +305,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CopyFile">
+  <component name="RunManager" selected="Application.Recursion2">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -329,33 +332,14 @@
       <module name="Coding" />
       <envs />
     </configuration>
-    <configuration name="FourThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="IOFIle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="day0330.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="day0330.FourThread" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Coding" />
-      <envs />
-    </configuration>
-    <configuration name="IOTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="day0330.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="day0330.IOTest" />
+      <option name="MAIN_CLASS_NAME" value="day0330.IOFIle" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -386,14 +370,14 @@
       <module name="Coding" />
       <envs />
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Recursion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="day0330.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="day0330.Test" />
+      <option name="MAIN_CLASS_NAME" value="day0330.Recursion1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -405,14 +389,33 @@
       <module name="Coding" />
       <envs />
     </configuration>
-    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Recursion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="day0330.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="day0330.ThreadTest" />
+      <option name="MAIN_CLASS_NAME" value="day0330.Recursion2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Coding" />
+      <envs />
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="day0330.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="day0330.WordCount" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -500,19 +503,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Question25" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ThreadTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FourThread" />
-      <item index="4" class="java.lang.String" itemvalue="Application.IOTest" />
-      <item index="5" class="java.lang.String" itemvalue="Application.CopyFile" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CopyFile" />
+      <item index="2" class="java.lang.String" itemvalue="Application.IOFIle" />
+      <item index="3" class="java.lang.String" itemvalue="Application.WordCount" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Recursion1" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Recursion2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CopyFile" />
-        <item index="1" class="java.lang.String" itemvalue="Application.IOTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FourThread" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ThreadTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Test (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Recursion2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Recursion1" />
+        <item index="2" class="java.lang.String" itemvalue="Application.WordCount" />
+        <item index="3" class="java.lang.String" itemvalue="Application.IOFIle" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CopyFile" />
       </list>
     </recent_temporary>
   </component>
@@ -552,12 +555,12 @@
       <workItem from="1522054854715" duration="726000" />
       <workItem from="1522227914773" duration="17261000" />
       <workItem from="1522310427200" duration="4584000" />
-      <workItem from="1522347183671" duration="9010000" />
+      <workItem from="1522347183671" duration="13825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157330000" />
+    <option name="totallyTimeSpent" value="162145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="952" y="0" width="976" height="1038" extended-state="0" />
@@ -572,7 +575,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2851759" sideWeight="0.5035533" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4451074" sideWeight="0.4964467" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4451074" sideWeight="0.4964467" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -605,34 +608,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day0322Repeat2/Question11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basicAlgorithm/Cal13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basicAlgorithm/Date14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-46">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day0322Repeat2/Question15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="19" column="53" lean-forward="false" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day0322Repeat2/Question17.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -990,6 +965,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day0330/CopyFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="46" />
+          <folding>
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day0330/IOTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -998,13 +984,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day0330/CopyFile.java">
+    <entry file="file://$PROJECT_DIR$/src/day0330/IOFIle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="46">
+          <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day0330/WordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           <folding>
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#182#201#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day0330/Recursion1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day0330/Recursion2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
           </folding>
         </state>
       </provider>
